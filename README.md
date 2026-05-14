@@ -246,7 +246,6 @@ the raw CSV file is not included in this repository.
 ---
 
 # Author
-**AJ**  
 
 **AJ**  
 Machine Learning • Data Science • AI Engineering
